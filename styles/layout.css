@@ -27,9 +27,9 @@
     display: grid;
     gap: 20px;
     grid-template-areas: 
-    "header header  header  header"
-    "nav    main    main    sidebar"
-    "nav    main    mainm   advertise"
-    "footer footer  footer  footer"
+    "header  header   header   header"
+    "nav     main     main     sidebar"
+    "nav     main     main   advertise"
+    "footer  footer   footer   footer"
     ;
 }
